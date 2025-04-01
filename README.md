@@ -56,5 +56,6 @@ The goal of this project is to prepare and analyze customer data to derive meani
 - Customer Data (CSV file)
 
  Project Outcome
+ 
 The project will showcase interactive dashboards with various insights into customer demographics, service usage, churn analysis, revenue, and billing. The interactive elements will allow users to explore the data from multiple perspectives and gain meaningful insights.
 
